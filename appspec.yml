@@ -1,0 +1,13 @@
+version: 0.0
+os: linux
+files:
+  - source: /index.html
+    destination: /var/www/html/
+    
+  - source: /SampleCode.php
+    destination: /var/www/html/
+    
+  - source: /dbinfo.php
+    destination: /var/www/html/
+
+
