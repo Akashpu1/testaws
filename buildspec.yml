@@ -11,4 +11,5 @@ phases:
 artifacts:
   files:
    - buildspec.yml
-    - build/*
+   - target/SampleMavenTomcatApp.war
+    - scripts/*
