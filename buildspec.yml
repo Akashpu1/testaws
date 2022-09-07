@@ -11,5 +11,5 @@ phases:
 artifacts:
   files:
    - buildspec.yml
-  #  - target/.war
+   - target/testaws.war
     - scripts/*
