@@ -13,4 +13,3 @@ artifacts:
    - buildspec.yml
    - target/testaws.war
     - scripts/*
-    
