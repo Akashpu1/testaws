@@ -10,3 +10,5 @@ phases:
     - echo "Deployed to S3"
 artifacts:
   files:
+   - buildspec.yml
+    - build/*
